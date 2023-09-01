@@ -1,6 +1,8 @@
 <h1 align="center">Merhaba 👋, Ben Hüseyin</h1>
 <h3 align="center">Ecole 42'de Öğrenci Ve Oyun Geliştiriciyim</h3>
 
+<h4 align="center">🔭 Kendi Girişimim üzerinde çalışıyorum.</h4>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huseyinnatess&label=Profile%20views&color=0e75b6&style=flat" alt="huseyinnatess" /> </p>
 
 <h3 align="left">Connect with me:</h3>
