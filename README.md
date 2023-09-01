@@ -3,7 +3,7 @@
 
 ## 🌐 Sosyal Medya / Social Media:
 <a href="https://instagram.com/atess_huseyinn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="atess_huseyinn" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ateshuseyin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ateshuseyin" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCYKwCoigaEOPvM1_pPCTu5A" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ateshuseyin" height="30" width="40" /></a>
 </p>
 
 # 💻 Skiller / Skills:
