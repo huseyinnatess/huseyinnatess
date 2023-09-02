@@ -26,8 +26,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=huseyinnatess&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <p align="left">
   <img src="https://iconape.com/wp-content/files/dq/258235/svg/258235.svg"/>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
