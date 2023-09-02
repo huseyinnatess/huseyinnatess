@@ -29,4 +29,4 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <p align="left">
-  <img src="https://iconape.com/wp-content/files/dq/258235/svg/258235.svg"/>
+  <img src="https://iconape.com/wp-content/files/dq/258235/svg/258235.svg" alt="turkey" width="40" height="40"/>
