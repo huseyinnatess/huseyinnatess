@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/readme.gif"/>
 
-<p align="left">
+<p align="center">
   <img src="https://iconape.com/wp-content/files/dq/258235/svg/258235.svg" alt="turkey" width="200" height="200"/>
 
 # 💫 Hakkımda / About me:
