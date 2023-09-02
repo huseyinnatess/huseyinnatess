@@ -8,7 +8,7 @@
 ## 🌐 Sosyal Medya / Social Media:
 <a href="https://instagram.com/atess_huseyinn" target="blank"><img align="center" src="https://github.com/huseyinnatess/readme.generator/blob/main/image_src/instagram-new-2022-seeklogo.com.svg" alt="atess_huseyinn" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCYKwCoigaEOPvM1_pPCTu5A" target="blank"><img align="center" src="https://github.com/huseyinnatess/readme.generator/blob/main/image_src/youtube-icon.svg" alt="ateshuseyin" height="30" width="60" /></a>
-<a href="https://www.udemy.com/user/huseyin-ates-2/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Udemy_logo.svg/512px-Udemy_logo.svg.png" alt="ateshuseyin" height="40" width="80" /></a>
+<a href="https://www.udemy.com/user/huseyin-ates-2/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Udemy_logo.svg/512px-Udemy_logo.svg.png" alt="ateshuseyin" height="40" width="40" /></a>
 </p>
 <br>
 
