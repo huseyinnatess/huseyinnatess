@@ -30,6 +30,6 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <p align="center">
-  <img src="https://iconape.com/wp-content/files/dq/258235/svg/258235.svg" alt="turkey" width="250" height="250"/>
+  <img src="https://iconape.com/wp-content/files/dq/258235/svg/258235.svg"/>
 
 
