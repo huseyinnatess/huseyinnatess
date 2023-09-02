@@ -1,5 +1,8 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/readme.gif"/>
+
+<p align="left">
+  <img src="https://iconape.com/flag-map-of-turkey-logo-logo-icon-svg-png.html"/>
   
 # 💫 Hakkımda / About me:
 🔭 Kendi Girişimim Ve Gelişimim Üzerinde Çalışıyorum / I am working on my own initiative and personal development.<br><br>👯 Oyun Geliştirmeyi Öğreniyorum / I'm learning game development.<br><br>🤝 Yeni Teknolojileri, Fırsatları Keşfetme Konusunda Yardım Arıyorum / I'm looking for help in exploring new technologies and opportunities.<br><br>💬  Bana Unity, C ve C# İle İlgili Sorular Sorabilirsiniz / You can ask me questions about Unity, C, and C#.<br><br>📫 İletişim İçin: E-posta - ateshuseyin247@gmail.com / Contact me at: Email - ateshuseyin247@gmail.com.
