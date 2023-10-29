@@ -3,7 +3,7 @@
 
 
 # 💫 Hakkımda / About me:
-🔭 Kendi Girişimim Ve Gelişimim Üzerinde Çalışıyorum / I am working on my own initiative and personal development.<br><br>👯 Oyun Geliştirmeyi Öğreniyorum / I'm learning game development.<br><br>🤝 Yeni Teknolojileri, Fırsatları Keşfetme Konusunda Yardım Arıyorum / I'm looking for help in exploring new technologies and opportunities.<br><br>💬  Bana Unity, C ve C# İle İlgili Sorular Sorabilirsiniz / You can ask me questions about Unity, C, and C#.<br><br>📫 İletişim İçin: E-posta - ateshuseyin247@gmail.com / Contact me at: Email - ateshuseyin247@gmail.com.
+🔭 Kendi Girişimim Ve Gelişimim Üzerinde Çalışıyorum / I am working on my own initiative and personal development.<br><br>👯 Oyun Geliştirmeyi Öğreniyorum / I'm learning game development.<br><br>🤝 Yeni Teknolojileri, Fırsatları Keşfetme Konusunda Yardım Arıyorum / I'm looking for help in exploring new technologies and opportunities.<br><br>💬  Bana Unity, C ve C# İle İlgili Sorular Sorabilirsiniz / You can ask me questions about Unity, C, and C#.<br><br>📫 İletişim İçin: E-posta - 'ateshuseyin247@gmail.com' / Contact me at: Email - ateshuseyin247@gmail.com.
 
 ## 🌐 Sosyal Medya / Social Media:
 <a href="https://instagram.com/atess_huseyinn" target="blank"><img align="center" src="https://github.com/huseyinnatess/readme.generator/blob/main/image_src/instagram-new-2022-seeklogo.com.svg" alt="atess_huseyinn" height="30" width="40" /></a>
