@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/readme.gif"/>
-
-
 # 💫 Hakkımda / About me:
 🔭 Kendi Girişimim Ve Gelişimim Üzerinde Çalışıyorum / I am working on my own initiative and personal development.<br><br>👯 Oyun Geliştirmeyi Öğreniyorum / I'm learning game development.<br><br>🤝 Yeni Teknolojileri, Fırsatları Keşfetme Konusunda Yardım Arıyorum / I'm looking for help in exploring new technologies and opportunities.<br><br>💬  Bana Unity, C ve C# İle İlgili Sorular Sorabilirsiniz / You can ask me questions about Unity, C, and C#.<br><br>📫 İletişim İçin: E-posta - "ateshuseyin247@gmail.com"/ Contact me at: Email - ateshuseyin247@gmail.com.
 
@@ -26,8 +22,5 @@
 [![](https://visitcount.itsvg.in/api?id=huseyinnatess&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<p align="center">
-  <img src="https://github.com/huseyinnatess/readme.generator/blob/main/image_src/turkey-flag-icon.svg"/>
 
 
