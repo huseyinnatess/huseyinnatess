@@ -3,6 +3,10 @@
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
         <img src="https://github.com/huseyinnatess/readme.generator/blob/main/image_src/c-icon.svg" alt="c" width="40" height="40"/> 
     </a> 
+    <!-- C++ Icon -->
+    <a href="https://en.cppreference.com/w/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="c++" width="40" height="40"/>
+    </a>
     <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
         <img src="https://github.com/huseyinnatess/readme.generator/blob/main/image_src/c-sharp-icon.svg" alt="csharp" width="40" height="40"/> 
     </a> 
@@ -11,10 +15,6 @@
     </a> 
     <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
         <img src="https://github.com/huseyinnatess/readme.generator/blob/main/image_src/unity-icon.svg" alt="unity" width="40" height="40"/> 
-    </a>
-    <!-- C++ Icon -->
-    <a href="https://en.cppreference.com/w/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="c++" width="40" height="40"/>
     </a>
     <!-- Rider Icon -->
     <a href="https://www.jetbrains.com/rider/" target="_blank" rel="noreferrer">
