@@ -1,11 +1,6 @@
 # 💫 Hakkımda / About me:
 🔭 Kendi Gelişimim Üzerinde Çalışıyorum / I am working on my own initiative and personal development.<br><br>👯 Oyun Geliştirmeyi Öğreniyorum / I'm learning game development.<br><br>🤝 Yeni Teknolojileri, Fırsatları Keşfetme Konusunda Yardım Arıyorum / I'm looking for help in exploring new technologies and opportunities.<br><br>💬  Bana Unity, C ve C# İle İlgili Sorular Sorabilirsiniz / You can ask me questions about Unity, C, and C#.<br><br>📫 İletişim İçin: E-posta - "ateshuseyin247@gmail.com"/ Contact me at: Email - ateshuseyin247@gmail.com.
 
-## 🌐 Sosyal Medya / Social Media:
-<a href="https://instagram.com/atess_huseyinn" target="blank"><img align="center" src="https://github.com/huseyinnatess/readme.generator/blob/main/image_src/instagram-new-2022-seeklogo.com.svg" alt="atess_huseyinn" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCYKwCoigaEOPvM1_pPCTu5A" target="blank"><img align="center" src="https://github.com/huseyinnatess/readme.generator/blob/main/image_src/youtube-icon.svg" alt="ateshuseyin" height="40" width="60" /></a>
-<br>
-
 # 💻 Skiller / Skills:
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/huseyinnatess/readme.generator/blob/main/image_src/c-icon.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://github.com/huseyinnatess/readme.generator/blob/main/image_src/c-sharp-icon.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/huseyinnatess/readme.generator/blob/main/image_src/git-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/huseyinnatess/readme.generator/blob/main/image_src/unity-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 <br>
