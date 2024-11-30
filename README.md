@@ -18,7 +18,7 @@
     </a>
     <!-- Rider Icon -->
     <a href="https://www.jetbrains.com/rider/" target="_blank" rel="noreferrer">
-        <img src="[image_src/rider.png](https://github.com/huseyinnatess/readme.generator/blob/main/image_src/rider.png)" alt="rider" width="40" height="40"/>
+        <img src="https://github.com/huseyinnatess/readme.generator/blob/main/image_src/rider.png" alt="rider" width="40" height="40"/>
     </a>
 </p>
 
