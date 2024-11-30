@@ -18,7 +18,7 @@
     </a>
     <!-- Rider Icon -->
     <a href="https://www.jetbrains.com/rider/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/JetBrains_Rider_Logo.svg" alt="rider" width="40" height="40"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/JetBrains_Rider_Logo.svg/1024px-JetBrains_Rider_Logo.svg.png" alt="rider" width="40" height="40"/>
     </a>
 </p>
 
